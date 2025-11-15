@@ -21,6 +21,9 @@ Click **Accept Invitation** to get push access.
 ```bash
 git clone https://github.com/mhasgit/think-in-code.git
 cd think-in-code
+```
+
+---
 
 ### **3. Create a Folder Named Exactly After Your GitHub Username**
 
