@@ -262,7 +262,6 @@ namespace AlgoExpertSolution
 
             Console.WriteLine("Press Enter to return to main menu...");
             Console.ReadLine();
-            Console.WriteLine("Hello");
         }
 
     }
